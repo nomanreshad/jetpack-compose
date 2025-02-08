@@ -1,4 +1,4 @@
-// Showing drop down context menu with long click in an item
+// Implement a drop down menu in Compose which appears next to where you long-tapped.
 
 package com.example.myapplication
 
